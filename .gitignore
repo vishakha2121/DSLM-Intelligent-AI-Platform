@@ -89,10 +89,7 @@ public/build/
 .storybook-out/
 *.tsbuildinfo
 
-# ============================================
-# Environment Files (CRITICAL)
-# ============================================
-.env
+
 
 
 
