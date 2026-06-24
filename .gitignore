@@ -1,0 +1,520 @@
+# ============================================
+# Python
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dylib
+*.dll
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+.virtualenv/
+pyenv/
+.venvrc
+venv.bak
+env.bak
+
+# Python Tools
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+*.log
+*.pid
+*.seed
+*.pid.lock
+*.sqlite
+*.sqlite3
+*.db
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.ipynb
+!notebooks/*.ipynb
+
+# ============================================
+# Node / React / JavaScript
+# ============================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+lerna-debug.log*
+.pnpm-store/
+.npm/
+.yarn/
+.yarnrc
+.yarn-integrity
+.yarn-metadata.json
+.yarnclean
+
+# Build outputs
+dist/
+build/
+out/
+.next/
+.nuxt/
+.cache/
+public/build/
+.storybook-out/
+*.tsbuildinfo
+
+# ============================================
+# Environment Files (CRITICAL)
+# ============================================
+.env
+.env.local
+.env.*.local
+.env.production
+.env.development
+.env.test
+.env.staging
+.env.example
+!.env.example
+.env.backup
+.env.old
+.env.save
+.env.temp
+
+# ============================================
+# IDE / Editor Files
+# ============================================
+# VS Code
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
+*.code-workspace
+.history/
+.vscode-test/
+
+# IntelliJ / WebStorm / PyCharm
+.idea/
+*.iml
+*.iws
+.idea_modules/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries
+.idea/caches
+.idea/httpRequests
+.idea/dataSources.local.xml
+*.ipr
+*.iws
+*.iml
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+.sublime/
+
+# Vim
+*.swp
+*.swo
+*.un~
+*.orig
+*.rej
+*~
+.*.swp
+.*.swo
+.*.swn
+
+# Emacs
+*~
+\#*\#
+.\#*
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# Atom
+.atom/
+*.atom
+.apm/
+
+# ============================================
+# OS Files
+# ============================================
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+
+# Mac OS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Linux
+*~
+.directory
+*.part
+*.tmp
+*.temp
+*.swp
+*.swo
+*.pid
+*.lock
+*.socket
+
+# ============================================
+# Database Files
+# ============================================
+*.sqlite
+*.sqlite3
+*.db
+*.db-wal
+*.db-shm
+*.db-journal
+*.mdb
+*.accdb
+*.dbf
+*.bak
+*.backup
+*.old
+*.orig
+
+# ============================================
+# Logs and Temporary Files
+# ============================================
+logs/
+*.log
+*.log.*
+*.out
+*.err
+*.pid
+*.seed
+*.pid.lock
+temp/
+tmp/
+*.tmp
+*.temp
+*.cache
+*.cached
+*.download
+*.download.*
+*.partial
+
+# ============================================
+# ML / AI Model Files
+# ============================================
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.keras
+*.pb
+*.tflite
+*.onnx
+*.pt
+*.pth
+*.pth.tar
+*.ckpt
+*.safetensors
+*.bin
+*.model
+*.weights
+*.json
+!*.json
+*.yaml
+*.yml
+!*.yaml
+!*.yml
+*.onnx
+*.protobuf
+*.pb
+*.meta
+*.index
+*.data-*
+*.checkpoint
+
+# MLflow
+mlruns/
+mlflow.db
+*.mlflow
+
+# TensorFlow
+tensorboard/
+*.tfevents*
+*.tfrecord
+*.tfrecords
+
+# ============================================
+# Data Files (Raw Data - Might be Large)
+# ============================================
+data/raw/
+data/processed/
+data/interim/
+data/external/
+data/output/
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.parquet
+*.feather
+*.jsonl
+*.json
+*.ndjson
+*.xml
+*.zip
+*.tar
+*.gz
+*.bz2
+*.7z
+*.rar
+*.xz
+
+# Except sample data
+!data/sample/
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/models/.gitkeep
+!database/seeds/*.sql
+
+# ============================================
+# Docker Files
+# ============================================
+*.dockerignore
+docker-compose.override.yml
+docker-compose.*.yml
+!docker-compose.yml
+.docker/
+docker/
+
+# ============================================
+# Secrets and Keys
+# ============================================
+*.pem
+*.key
+*.crt
+*.csr
+*.pub
+*.priv
+*.secret
+*.token
+*.cert
+*.certificate
+*.truststore
+*.keystore
+*.jks
+
+# ============================================
+# Package Manager Specific
+# ============================================
+# Python
+poetry.lock
+Pipfile.lock
+pyproject.toml
+!pyproject.toml
+setup.py
+!setup.py
+setup.cfg
+!setup.cfg
+
+# Node
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+!package-lock.json
+!yarn.lock
+
+# ============================================
+# Documentation Generated
+# ============================================
+docs/_build/
+docs/api/
+docs/html/
+docs/latex/
+docs/man/
+docs/texinfo/
+docs/doctrees/
+site/
+apidocs/
+coverage/
+htmlcov/
+*.cover
+*.py,cover
+*.xml
+*.xsd
+
+# ============================================
+# Testing
+# ============================================
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+.tox/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+pytype-output/
+test-results/
+test-reports/
+__test__/
+*.test.js
+*.test.jsx
+*.test.ts
+*.spec.js
+*.spec.jsx
+*.spec.ts
+
+# ============================================
+# Deployment / Production
+# ============================================
+*.pid
+*.seed
+*.pid.lock
+*.tgz
+*.gz
+*.bz2
+*.7z
+*.rar
+*.tar
+*.zip
+*.deb
+*.rpm
+*.dmg
+*.pkg
+*.msi
+*.exe
+*.jar
+*.war
+*.ear
+*.class
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.lib
+
+# ============================================
+# Misc
+# ============================================
+*.sass-cache
+*.scssc
+*.css.map
+*.map
+*.tsbuildinfo
+*.eslintcache
+*.stylelintcache
+*.prettiercache
+*.swc
+*.turbo
+*.rush
+*.rush/temp/
+*.rush/logs/
+*.nx
+*.nx/cache/
+*.nx/workspace-data/
+*.parcel-cache
+*.webpack-cache
+*.vite
+*.vite-cache
+
+# ============================================
+# Project Specific
+# ============================================
+# Backend specific
+backend/.env
+backend/.env.local
+backend/data/
+backend/logs/
+backend/*.db
+backend/*.sqlite
+backend/models/*.pkl
+backend/models/*.h5
+backend/models/*.pt
+backend/models/*.joblib
+backend/__pycache__/
+backend/*.pyc
+backend/.pytest_cache/
+
+# Frontend specific
+frontend/.env
+frontend/.env.local
+frontend/build/
+frontend/dist/
+frontend/node_modules/
+frontend/.eslintcache
+frontend/.stylelintcache
+frontend/*.log
+frontend/coverage/
+frontend/.cache/
+frontend/.parcel-cache/
+frontend/.next/
+frontend/out/
+
+# Docker specific
+*.dockerignore
+docker/.env
+docker/*.log
+
+# Database dumps
+*.dump
+*.backup
+*.sql.gz
+*.sql.bz2
+*.sql.zip
