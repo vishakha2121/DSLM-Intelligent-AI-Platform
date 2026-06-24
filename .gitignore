@@ -296,18 +296,7 @@ tensorboard/
 *.tfrecord
 *.tfrecords
 
-# ============================================
-# Data Files (Raw Data - Might be Large)
-# ============================================
-data/raw/
-data/processed/
-data/interim/
-data/external/
-data/output/
-*.csv
-*.tsv
-*.xls
-*.xlsx
+
 
 
 
