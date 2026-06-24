@@ -369,12 +369,6 @@ setup.py
 setup.cfg
 !setup.cfg
 
-# Node
-package-lock.json
-yarn.lock
-pnpm-lock.yaml
-!package-lock.json
-!yarn.lock
 
 
 
