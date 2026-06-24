@@ -138,16 +138,7 @@ public/build/
 *.sublime-workspace
 .sublime/
 
-# Vim
-*.swp
-*.swo
-*.un~
-*.orig
-*.rej
-*~
-.*.swp
-.*.swo
-.*.swn
+
 
 
 
