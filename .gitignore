@@ -133,10 +133,6 @@ public/build/
 *.iws
 *.iml
 
-# Sublime Text
-*.sublime-project
-*.sublime-workspace
-.sublime/
 
 
 
