@@ -106,17 +106,6 @@ public/build/
 .env.save
 .env.temp
 
-# ============================================
-# IDE / Editor Files
-# ============================================
-# VS Code
-.vscode/
-!.vscode/extensions.json
-!.vscode/settings.json
-*.code-workspace
-.history/
-.vscode-test/
-
 
 
 
