@@ -437,21 +437,6 @@ __test__/
 *.rpm
 *.dmg
 *.pkg
-*.msi
-*.exe
-*.jar
-*.war
-*.ear
-*.class
-*.o
-*.a
-*.so
-*.dylib
-*.dll
-*.lib
-
-# ============================================
-# Misc
 
 
 
