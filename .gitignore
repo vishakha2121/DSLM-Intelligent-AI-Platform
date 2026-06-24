@@ -322,12 +322,7 @@ data/output/
 *.rar
 *.xz
 
-# Except sample data
-!data/sample/
-!data/raw/.gitkeep
-!data/processed/.gitkeep
-!data/models/.gitkeep
-!database/seeds/*.sql
+
 
 
 
