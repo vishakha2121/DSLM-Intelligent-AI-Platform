@@ -452,27 +452,6 @@ __test__/
 
 # ============================================
 # Misc
-# ============================================
-*.sass-cache
-*.scssc
-*.css.map
-*.map
-*.tsbuildinfo
-*.eslintcache
-*.stylelintcache
-*.prettiercache
-*.swc
-*.turbo
-*.rush
-*.rush/temp/
-*.rush/logs/
-*.nx
-*.nx/cache/
-*.nx/workspace-data/
-*.parcel-cache
-*.webpack-cache
-*.vite
-*.vite-cache
 
 
 
