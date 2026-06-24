@@ -356,18 +356,7 @@ docker/
 *.keystore
 *.jks
 
-# ============================================
-# Package Manager Specific
-# ============================================
-# Python
-poetry.lock
-Pipfile.lock
-pyproject.toml
-!pyproject.toml
-setup.py
-!setup.py
-setup.cfg
-!setup.cfg
+
 
 
 
