@@ -78,16 +78,7 @@ lerna-debug.log*
 .yarn-metadata.json
 .yarnclean
 
-# Build outputs
-dist/
-build/
-out/
-.next/
-.nuxt/
-.cache/
-public/build/
-.storybook-out/
-*.tsbuildinfo
+
 
 
 
