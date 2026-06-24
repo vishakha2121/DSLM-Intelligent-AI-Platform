@@ -55,10 +55,6 @@ dmypy.json
 *.sqlite3
 *.db
 
-# Jupyter Notebooks
-.ipynb_checkpoints/
-*.ipynb_checkpoints
-*.ipynb
 !notebooks/*.ipynb
 
 
