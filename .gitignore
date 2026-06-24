@@ -230,16 +230,7 @@ Temporary Items
 *.old
 *.orig
 
-# ============================================
-# Logs and Temporary Files
-# ============================================
-logs/
-*.log
-*.log.*
-*.out
-*.err
-*.pid
-*.seed
+
 
 
 
