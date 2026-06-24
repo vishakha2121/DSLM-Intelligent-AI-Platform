@@ -261,17 +261,6 @@ tmp/
 *.hdf5
 *.keras
 *.pb
-*.tflite
-*.onnx
-*.pt
-*.pth
-*.pth.tar
-*.ckpt
-*.safetensors
-*.bin
-*.model
-*.weights
-*.json
 
 
 
