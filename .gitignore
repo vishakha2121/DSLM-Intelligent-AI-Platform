@@ -182,11 +182,7 @@ $RECYCLE.BIN/
 *.msp
 *.lnk
 
-# Mac OS
-.DS_Store
-.AppleDouble
-.LSOverride
-Icon?
+
 
 
 
