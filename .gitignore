@@ -376,26 +376,6 @@ pnpm-lock.yaml
 !package-lock.json
 !yarn.lock
 
-# ============================================
-# Documentation Generated
-# ============================================
-docs/_build/
-docs/api/
-docs/html/
-docs/latex/
-docs/man/
-docs/texinfo/
-docs/doctrees/
-site/
-apidocs/
-coverage/
-htmlcov/
-*.cover
-*.py,cover
-*.xml
-*.xsd
-
-# ============================================
 
 
 
