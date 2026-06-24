@@ -219,16 +219,7 @@ Temporary Items
 *.sqlite
 *.sqlite3
 *.db
-*.db-wal
-*.db-shm
-*.db-journal
-*.mdb
-*.accdb
-*.dbf
-*.bak
-*.backup
-*.old
-*.orig
+
 
 
 
