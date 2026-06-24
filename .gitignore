@@ -240,16 +240,6 @@ logs/
 *.err
 *.pid
 *.seed
-*.pid.lock
-temp/
-tmp/
-*.tmp
-*.temp
-*.cache
-*.cached
-*.download
-*.download.*
-*.partial
 
 
 
