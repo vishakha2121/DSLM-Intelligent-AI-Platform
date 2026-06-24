@@ -201,17 +201,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# Linux
-*~
-.directory
-*.part
-*.tmp
-*.temp
-*.swp
-*.swo
-*.pid
-*.lock
-*.socket
 
 
 
