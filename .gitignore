@@ -492,18 +492,5 @@ backend/__pycache__/
 backend/*.pyc
 backend/.pytest_cache/
 
-# Frontend specific
-frontend/.env
-frontend/.env.local
-frontend/build/
-frontend/dist/
-frontend/node_modules/
-frontend/.eslintcache
-frontend/.stylelintcache
-frontend/*.log
-frontend/coverage/
-frontend/.cache/
-frontend/.parcel-cache/
-frontend/.next/
-frontend/out/
+
 
