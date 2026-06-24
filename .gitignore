@@ -507,14 +507,3 @@ frontend/.parcel-cache/
 frontend/.next/
 frontend/out/
 
-# Docker specific
-*.dockerignore
-docker/.env
-docker/*.log
-
-# Database dumps
-*.dump
-*.backup
-*.sql.gz
-*.sql.bz2
-*.sql.zip
