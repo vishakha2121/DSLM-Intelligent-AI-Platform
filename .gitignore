@@ -26,17 +26,7 @@ MANIFEST
 *.dylib
 *.dll
 
-# Virtual Environment
-venv/
-env/
-ENV/
-.venv/
-.env/
-.virtualenv/
-pyenv/
-.venvrc
-venv.bak
-env.bak
+
 
 
 
