@@ -474,23 +474,7 @@ __test__/
 *.vite
 *.vite-cache
 
-# ============================================
-# Project Specific
-# ============================================
-# Backend specific
-backend/.env
-backend/.env.local
-backend/data/
-backend/logs/
-backend/*.db
-backend/*.sqlite
-backend/models/*.pkl
-backend/models/*.h5
-backend/models/*.pt
-backend/models/*.joblib
-backend/__pycache__/
-backend/*.pyc
-backend/.pytest_cache/
+
 
 
 
