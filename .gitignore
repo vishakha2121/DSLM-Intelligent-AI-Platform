@@ -308,19 +308,6 @@ data/output/
 *.tsv
 *.xls
 *.xlsx
-*.parquet
-*.feather
-*.jsonl
-*.json
-*.ndjson
-*.xml
-*.zip
-*.tar
-*.gz
-*.bz2
-*.7z
-*.rar
-*.xz
 
 
 
