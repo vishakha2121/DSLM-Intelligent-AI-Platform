@@ -38,22 +38,7 @@ pyenv/
 venv.bak
 env.bak
 
-# Python Tools
-.pytest_cache/
-.coverage
-htmlcov/
-.tox/
-.mypy_cache/
-.dmypy.json
-dmypy.json
-.pyre/
-*.log
-*.pid
-*.seed
-*.pid.lock
-*.sqlite
-*.sqlite3
-*.db
+
 
 
 
