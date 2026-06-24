@@ -329,15 +329,7 @@ data/output/
 !data/models/.gitkeep
 !database/seeds/*.sql
 
-# ============================================
-# Docker Files
-# ============================================
-*.dockerignore
-docker-compose.override.yml
-docker-compose.*.yml
-!docker-compose.yml
-.docker/
-docker/
+
 
 
 
