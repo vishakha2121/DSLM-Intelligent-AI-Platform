@@ -420,23 +420,6 @@ __test__/
 *.spec.jsx
 *.spec.ts
 
-# ============================================
-# Deployment / Production
-# ============================================
-*.pid
-*.seed
-*.pid.lock
-*.tgz
-*.gz
-*.bz2
-*.7z
-*.rar
-*.tar
-*.zip
-*.deb
-*.rpm
-*.dmg
-*.pkg
 
 
 
