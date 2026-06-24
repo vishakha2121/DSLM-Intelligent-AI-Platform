@@ -272,18 +272,7 @@ tmp/
 *.model
 *.weights
 *.json
-!*.json
-*.yaml
-*.yml
-!*.yaml
-!*.yml
-*.onnx
-*.protobuf
-*.pb
-*.meta
-*.index
-*.data-*
-*.checkpoint
+
 
 
 
