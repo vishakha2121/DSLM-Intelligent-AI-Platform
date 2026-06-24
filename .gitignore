@@ -339,22 +339,7 @@ docker-compose.*.yml
 .docker/
 docker/
 
-# ============================================
-# Secrets and Keys
-# ============================================
-*.pem
-*.key
-*.crt
-*.csr
-*.pub
-*.priv
-*.secret
-*.token
-*.cert
-*.certificate
-*.truststore
-*.keystore
-*.jks
+
 
 
 
