@@ -396,29 +396,7 @@ htmlcov/
 *.xsd
 
 # ============================================
-# Testing
-# ============================================
-.coverage
-.coverage.*
-coverage.xml
-*.cover
-.hypothesis/
-.pytest_cache/
-.tox/
-.mypy_cache/
-.dmypy.json
-dmypy.json
-.pyre/
-pytype-output/
-test-results/
-test-reports/
-__test__/
-*.test.js
-*.test.jsx
-*.test.ts
-*.spec.js
-*.spec.jsx
-*.spec.ts
+
 
 
 
